@@ -11,3 +11,6 @@ The function of this project is too easy to understand. You just have to enter y
 
 
 ## Here is a demo for this project [dual window]
+
+![_Screenshot (518)](https://user-images.githubusercontent.com/64744693/85616340-5916f500-b67f-11ea-9579-d77a5278cfcf.png)
+![_Screenshot (519)](https://user-images.githubusercontent.com/64744693/85616344-5c11e580-b67f-11ea-8a42-6fde882a7ab2.png)
