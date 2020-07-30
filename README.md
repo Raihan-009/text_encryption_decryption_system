@@ -18,7 +18,7 @@ The function of this project is too easy to understand. You just have to enter y
 
 ## Here is the new version of this project
 
-In this version I have added two new feature. One is a 'Browse' option to access any kind of file (basically you need to a text file) accrording to your pc and make it executable with encryption decryption system, no matter how long it is! And another is 'save' option to save your encoded or decoded file.
+In this version I have added two new feature. One is a 'Browse' option to access any kind of file (basically you need to a text file) accrording to your pc and make it executable with encryption decryption system, no matter how long it is! And another one is 'save' option to save your encoded or decoded file in your pc, wherever you want to.
 
 ### Here is the demo.
 
