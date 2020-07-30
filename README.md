@@ -14,3 +14,12 @@ The function of this project is too easy to understand. You just have to enter y
 
 ![_Screenshot (518)](https://user-images.githubusercontent.com/64744693/85616340-5916f500-b67f-11ea-9579-d77a5278cfcf.png)
 ![_Screenshot (519)](https://user-images.githubusercontent.com/64744693/85616344-5c11e580-b67f-11ea-8a42-6fde882a7ab2.png)
+
+
+## Here is the new version of this project
+
+In this version I have added two new feature. One is a 'Browse' option to access any kind of file (basically you need to a text file) accrording to your pc and make it executable with encryption decryption system, no matter how long it is! And another is 'save' option to save your encoded or decoded file.
+
+### Here is the demo.
+
+![Screenshot (540)](https://user-images.githubusercontent.com/64744693/88956454-3354bf80-d2bf-11ea-97ad-105c115d7046.png)
